@@ -1,12 +1,13 @@
-1 | You awaken in a bizarre alien landscape. Do you: 1) Search for your crashed starship 2) Look for signs of intelligent life | 2 | 3
-2 | You find your starship crashed into a crystalline formation. Do you: 1) Check the ship for supplies 2) Try to repair the communications system | 4 | 5
-3 | You see structures in the distance suggestive of intelligent life. Do you: 1) Head towards the structures 2) Try to avoid potential danger by taking a different path | 7 | 8
-4 | Searching the ship, you find an emergency survival kit. Do you: 1) Take it with you 2) Store it for later | -1 | 6 
-5 | As you attempt to repair the communications system, a signal is picked up. Do you: 1) Try to decipher the signal 2) Broadcast a distress call | 6 | 9
-6 | You hear a strange noise outside the ship. Do you: 1) Investigate the noise with the survival kit in hand 2) Stay inside the ship and try to fortify the entrance | 10 | 2 
-7 | You find a bustling alien city and the inhabitants extend a warm greeting. Do you: 1) Accept their hospitality 2) Remain wary and keep your distance | 9 | 11
-8 | You encounter a dangerous looking alien creature. Do you: 1) Try to communicate with it 2) Run back to the ship | 3 | 2
-9 | The alien city offers help to repair your ship. Do you: 1) Accept their help 2) Decline and try to fix the ship yourself | 12 | 5
-10 | The noise is from a friendly looking creature. Do you: 1) Try to pet it 2) Reside back into the ship | -1 | 2
-11 | The inhabitants turn hostile. Do you: 1) Try to fight 2) Run away and look for a better place to hide | 10 | 7
-12 | The starship is repaired and the aliens bid you farewell. Do you: 1) Head back to home planet 2) Stay and explore more about the alien planet | -1 | 3
+1 | You arrive at the Grammy Awards. Do you: 1) Enter through the VIP entrance 2) Enter through the general entrance | 2 | 3
+2 | The security asks for your VIP pass. Do you: 1) Show the pass 2) Try to sneak in | 4 | 5
+3 | You walk through the general entrance and see a famous musician. Do you: 1) Approach them 2) Head straight to the main hall | 6 | 7
+4 | The security lets you in, and you meet a famous artist. They invite you to an exclusive lounge. Do you: 1) Accept 2) Decline | 8 | 9
+5 | You try to sneak in but get caught. Do you: 1) Apologize and leave 2) Argue with security | 10 | 11
+6 | The musician greets you warmly and offers backstage access. Do you: 1) Accept 2) Decline | 8 | 9
+7 | You enter the main hall and find your seat, enjoying the show. | -1 | -1
+8 | You are in the VIP lounge with A-list celebrities. Do you: 1) Network with them 2) Enjoy the free food | 12 | 13
+9 | You watch the show from the main hall, feeling like you missed an opportunity. | -1 | -1
+10 | The security lets you go, but you miss the show. | -1 | -1
+11 | You get escorted out of the venue. | -1 | -1
+12 | You make great connections and get invited to an after-party. | -1 | -1
+13 | You enjoy the food but miss out on making connections. | -1 | -1
