@@ -1,7 +1,7 @@
 import openai
 import os
 
-openai.api_key = "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"
+#openai.api_key = "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"
 
 def generate_rpg_story():
     client = openai.OpenAI(api_key=openai.api_key)
